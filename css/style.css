@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Gravitas+One&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* h2{
+    color: blue;
+} */
+/* 
+*{
+    color: red;
+}
+
+h1{
+    color: green;
+}
+
+p{
+    color: yellow;
+}
+
+.para{
+    color: purple;
+}
+
+#p{
+    color: orange;
+} */
+
+
+.text{
+    font-family: "Montserrat";
+    font-size: 40px;
+    font-weight: 600;
+    font-style: italic;
+    line-height: 50px;
+    text-align: center;
+    text-decoration: line-through dashed;
+    text-transform: lowercase;
+}
+
+.list{
+    list-style: none;
+}
